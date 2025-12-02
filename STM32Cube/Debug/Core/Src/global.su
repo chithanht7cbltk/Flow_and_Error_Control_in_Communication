@@ -1,0 +1,3 @@
+global.c:25:6:DisplayMessage	24	static
+global.c:33:6:DisplayChar	16	static
+global.c:37:6:clear_command	16	static
